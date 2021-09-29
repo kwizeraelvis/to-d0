@@ -8,10 +8,10 @@
         <version>2.5.2</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.elysee.springapp</groupId>
-    <artifactId>DukaChallenge</artifactId>
+    <groupId>com.elvis.springapp</groupId>
+    <artifactId>to-do</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>DukaChallenge</name>
+    <name>ToDo App Api</name>
     <description>Demo project for Spring Boot</description>
     <properties>
         <java.version>11</java.version>
